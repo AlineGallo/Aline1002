@@ -13,3 +13,10 @@
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline1002&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+  ##
+  
+  <div>
+<a href="https://www.linkedin.com/in/alinegallo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a>
+</div>
+  
