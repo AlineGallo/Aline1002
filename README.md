@@ -6,7 +6,7 @@
   escreva sobre vc ai 
 </div>
 
-<hrr>
+##
 
 <div align="center">
   <a href="https://github.com/Aline1002">
