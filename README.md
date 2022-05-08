@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=F0E500&lines=bem-vinde+ao+meu+perfil+sz)](https://git.io/typing-svg)
-
-<div> 
-  
-</div>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=F0E500&lines=bem-vinde+ao+meu+perfil+sz"
+</p>
 
 <br>
 <br>
