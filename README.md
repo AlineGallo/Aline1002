@@ -1,9 +1,7 @@
-<div align="center">
-  poe um texto ai
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=F0E500&lines=bem-vinde+ao+meu+perfil+sz)](https://git.io/typing-svg)
 
 <div> 
-  escreva sobre vc ai 
+  
 </div>
 
 <br>
