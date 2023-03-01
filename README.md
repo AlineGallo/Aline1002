@@ -4,9 +4,10 @@
 
 <div align="center">
     <p style="font-size: 40px;">SOBRE MIM</p>
-    <p>Aline Gallo - 19 anos - SP</p>
+    <p>Aline Gallo - 20 anos - SP</p>
     <p>Análise e Desenvolvimento de Sistemas - UNIP</p>
     <p>Desenvolvedor WEB - PROA</p>
+    <p>Estágio - Full Stack - WebSupply</p>
 </div>
 
 ##
