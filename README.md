@@ -1,9 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=AB1AF7&center=true&width=435&lines=Bem+vindo(a)!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9353FC&width=435&lines=Bem+vindo(a)!" alt="Typing SVG" /></a>
 
 ##
 
 <div align="center">
-    <p style="font-size: 40px;">SOBRE MIM</p>
     <p>Aline Gallo - 20 anos - SP</p>
     <p>Análise e Desenvolvimento de Sistemas - UNIP</p>
     <p>Desenvolvedor WEB - PROA</p>
