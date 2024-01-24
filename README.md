@@ -3,10 +3,9 @@
 ##
 
 <div align="center">
-    <p>Aline Gallo - 20 anos - SP</p>
-    <p>Análise e Desenvolvimento de Sistemas - UNIP</p>
+    <p>Aline Gallo - 21 anos - SP</p>
     <p>Desenvolvedor WEB - PROA</p>
-    <p>Estágio - Full Stack - WebSupply</p>
+    <p>Trainee - Full Stack - WebSupply</p>
 </div>
 
 ##
